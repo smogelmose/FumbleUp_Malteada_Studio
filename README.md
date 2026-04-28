@@ -82,7 +82,7 @@ Key balancing decisions came directly from playtesting: platform spacing was adj
 
 ## Team — Malteada Studio
 
-The name *Malteada* is Spanish for "milkshake" — a [purple cow](https://www.scottrogers.dev/) name suggesting whimsical, humorous, and fun games (Rogers, 2014).
+The name *Malteada* is Spanish for "milkshake".
 
 
 ## Asset credits
