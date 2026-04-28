@@ -96,13 +96,11 @@ Environmental assets purchased from the FAB store:
 
 ## Future work
 
-Features we'd add given more time:
-
 - Dynamic difficulty balancing / rubber-banding for skill differences between players
 - Adjustable game length and level scale
 - More levels and varied environments
 - Customisable controls and colourblind-friendly onboarding for accessibility
-- Standardised playtesting metrics (e.g. Schønau-Fog's continuation desire framework)
+- Standardised playtesting metrics
 
 ---
 
@@ -114,7 +112,6 @@ This project was developed for the **GAMED — Theory and Practice of Game Desig
 
 - Fullerton, T. *Game Design Workshop: A Playcentric Approach to Creating Innovative Games* (4th ed.). CRC Press.
 - Rogers, S. *Level Up! The Guide to Great Video Game Design* (2nd ed.). John Wiley & Sons.
-- Schønau-Fog, H. *The Player Engagement Process — An Exploration of Continuation Desire in Digital Games*.
 
 ---
 
